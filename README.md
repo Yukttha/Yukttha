@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1>Hello, I'm Yukttha! </h1>
+(Page under construction)
+
+<h2>👩‍💻 Business Analytics Projects:</h2>
+<b>
+  
+  - [Business Analytics Case Study - Group Project](https://github.com/Yukttha/BusinessAnalyticsCaseStudyGroupProject)
+
+<h2>📄 Certification</h2>
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/yuktthasiva
+
 
 <!--
 **Yukttha/Yukttha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
