@@ -1,7 +1,7 @@
 <h1>Hello, I'm Yukttha! </h1>
 (Page under construction)
 
-<h2>👩‍💻 Business Analytics Projects:</h2>
+<h2>👩‍💻 Business Analytics Projects</h2>
 <b>
   
   - [Business Analytics Case Study - Group Project](https://github.com/Yukttha/CaseStudyProject)
