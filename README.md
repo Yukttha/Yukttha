@@ -4,7 +4,7 @@
 <h2>👩‍💻 Business Analytics Projects:</h2>
 <b>
   
-  - [Business Analytics Case Study - Group Project](https://github.com/Yukttha/BusinessAnalyticsCaseStudyGroupProject)
+  - [Business Analytics Case Study - Group Project](https://github.com/Yukttha/CaseStudyProject)
 
 <h2>📄 Certification</h2>
 
