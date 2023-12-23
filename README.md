@@ -2,6 +2,7 @@
 <html lang="en">
   
   <head>
+    <title> Yukttha </title>
       <meta name="google-site-verification" content="DvWw9i2KXk781rQ6MUAHCqICL7C7vi09zQaYT1Xgof8" />
   </head>
   
