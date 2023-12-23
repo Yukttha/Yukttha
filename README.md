@@ -1,6 +1,7 @@
 <h1>Hello, I'm Yukttha! </h1>
 (Page under construction)
-<head> <meta name="google-site-verification" content="DvWw9i2KXk781rQ6MUAHCqICL7C7vi09zQaYT1Xgof8" /></head>
+<head> 
+<meta name="google-site-verification" content="DvWw9i2KXk781rQ6MUAHCqICL7C7vi09zQaYT1Xgof8" />
 
 <h2>👩‍💻 Business Analytics Projects</h2>
 <b>
@@ -15,7 +16,7 @@
 
 [linkedin]: https://linkedin.com/in/yuktthasiva
 
-
+</head>
 <!--
 **Yukttha/Yukttha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
