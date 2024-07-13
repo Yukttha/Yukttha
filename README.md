@@ -10,8 +10,7 @@
     <p> (Page under construction) </p>
   
   <h2>👩‍💻 Business Analytics Projects</h2>
-        <b>
-        <li><a href="https://github.com/Yukttha/CaseStudyProject"> Business Analytics Case Study - Group Project </a> </li>
+        <li><a href="https://github.com/Yukttha/Stack-Overflow_Developer-Tools_Analysis.git"> Network Analysis of Stack Overflow Developer Tools </a> </li>
   
   <h2>📄 Certification</h2>
   <li>Google Data Analytics Beginner (in progress)
