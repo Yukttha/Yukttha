@@ -14,13 +14,7 @@
         <li><a href="https://github.com/Yukttha/CaseStudyProject"> Business Analytics Case Study - Group Project </a> </li>
   
   <h2>📄 Certification</h2>
-  
-  <h2>🤳 Connect with me:</h2>
-
-  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-  [linkedin]: https://linkedin.com/in/yuktthasiva
-
+  <li>Google Data Analytics Beginner (in progress)
 
 
   </body>
