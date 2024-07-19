@@ -7,7 +7,7 @@
   
   <body>
     <h1>Hello, I'm Yukttha! </h1>
-    <p>I'm currently in my third year of the Accounting and Financial Management program at the University of Waterloo. I've always had a passion towards tech, whether that is reading about the latest developments in A.I. or watching YouTube videos on tech gadget reviews. But, that passion later expanded to when I took my first coding course in high school, where I learned to code in Python. I was fully immersed in the course, so I decided to take another computer science course in my upper year, which I learned to code in Java. Fast foreward to university, I took business analytics courses, which started of by using R then later using Python, and I'm currently on track to pursue my Business Analytics Specialization.</p>
+    <p>I'm currently in my third year of the Accounting and Financial Management program at the University of Waterloo. I've always had a passion towards tech, whether that is reading about the latest developments in A.I. or watching YouTube videos on tech gadget reviews. But, that passion later expanded to when I took my first coding course in high school, where I learned to code in Python. I was fully immersed in the course, so I decided to take another computer science course in my upper year, which I learned to code in Java. Fast foreward to university, I took business analytics courses, which started of by using R then later using Python, and I'm currently on track to pursue my Business Analytics Specialization. I realized that I liked the intersection of business and technology.</p>
   
   <h2>📄 Programming Languages</h2>
   <li>R</li>
