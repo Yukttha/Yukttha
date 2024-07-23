@@ -13,10 +13,10 @@
   <li><a href="https://github.com/Yukttha/Stack-Overflow_Developer-Tools_Analysis.git"> Network Analysis of Stack Overflow Developer Tools </a> </li>
   <li><a href="https://github.com/Yukttha/TripAdvisor-Reviews-Analysis">Text Processing and Representation Analysis of TripAdvisor Reviews</li>
     
-  <h2>📄 Programming Languages</h2>
+  <h2>📄Languages</h2>
   <li>R</li>
   <li>Python</li>
-  <li>HTML/CSS (markup)</li>
+  <li>HTML/CSS </li>
 
   <h2>📊 Data Visualization Tools</h2>
   <li>Tableau</li>
