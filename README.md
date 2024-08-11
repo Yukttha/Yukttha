@@ -24,10 +24,6 @@
 
   <h2>✒️ Certificate</h2>
   <li><a href="https://www.coursera.org/user/042d814d3a6e7fa29861963bf55af4a0"> Google Data Analytics - In Progress </li>
-
-  <h2>📰 Articles</h2>
-  <li><a href="https://waterloobusinessreview.com/articles/fall-2023/space.html"> Space: The Misguided Promise of Privatization </li>
-  <li><a href="https://waterloobusinessreview.com/articles/fall-2022/tesla.html"> Tesla: The Future of the Electrical Industry </li>
   
   </body>
 </html>
